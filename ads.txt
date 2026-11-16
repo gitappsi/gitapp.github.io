@@ -1,3 +1,6 @@
+google.com, pub-5626026069920491, DIRECT, f08c47fec0942fa0
+google.com, pub-4763983171047540, DIRECT, f08c47fec0942fa0
+google.com, pub-1144372769238538, DIRECT, f08c47fec0942fa0
 google.com, pub-1825131165211934, DIRECT, f08c47fec0942fa0
 ownerdomain=gitapp.si
 managerdomain=revbid.net
